@@ -2,7 +2,7 @@ package Data::Compare::Plugins::Set::Object;
 
 use strict;
 use warnings;
-use version 0.77; our $VERSION = qv('v1.0_5');
+use version 0.77; our $VERSION = qv('v1.0_6');
 use English qw(-no_match_vars);
 use Data::Compare 0.06;
 use List::Util qw(first);
@@ -122,6 +122,8 @@ None reported.
 
 No bugs have been reported.
 
+Please report any bugs or feature requests via GitHub at
+L<http://github.com/mjg/Data-Compare-Plugins-Set-Object/issues>.
 Please report any bugs or feature requests to
 C<bug-data-compare-plugins-set-object@rt.cpan.org>, or through the web
 interface at L<http://rt.cpan.org>.
