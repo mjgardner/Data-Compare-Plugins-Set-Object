@@ -1,4 +1,4 @@
-Data-Compare-Plugins-Set-Object version 1.0_6
+Data-Compare-Plugins-Set-Object version 1.0
 
 This module is a plugin for Data::Compare, enabling it to compare the data
 within Set::Object objects.  It uses Data::Compare to recursively descend

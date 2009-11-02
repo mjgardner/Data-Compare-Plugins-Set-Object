@@ -2,7 +2,7 @@ package Data::Compare::Plugins::Set::Object;
 
 use strict;
 use warnings;
-use version 0.77; our $VERSION = qv('v1.0_6');
+use version 0.77; our $VERSION = qv('v1.0');
 use English qw(-no_match_vars);
 use Data::Compare 0.06;
 use List::Util qw(first);
@@ -44,8 +44,7 @@ __END__
 
 =head1 NAME
 
-Data::Compare::Plugins::Set::Object - plugin for Data::Compare to handle
-Set::Object objects
+Data::Compare::Plugins::Set::Object - plugin for Data::Compare to handle Set::Object objects
 
 =head1 VERSION
 

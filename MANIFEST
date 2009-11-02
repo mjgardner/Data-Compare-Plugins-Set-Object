@@ -1,6 +1,7 @@
 Changes
 ignore.txt
 inc/Module/Install.pm
+inc/Module/Install/AuthorTests.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Can.pm
 inc/Module/Install/Fetch.pm
@@ -15,6 +16,6 @@ META.yml
 README
 t/00.load.t
 t/01.set.t
-t/perlcritic.t
-t/pod-coverage.t
-t/pod.t
+xt/perlcritic.t
+xt/pod-coverage.t
+xt/pod.t
