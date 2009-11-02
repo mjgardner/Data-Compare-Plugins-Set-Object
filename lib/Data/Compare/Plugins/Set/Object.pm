@@ -1,5 +1,6 @@
 package Data::Compare::Plugins::Set::Object;
 
+use 5.008;
 use strict;
 use warnings;
 use version 0.77; our $VERSION = qv('v1.0');
@@ -129,7 +130,7 @@ interface at L<http://rt.cpan.org>.
 
 =head1 AUTHOR
 
-Mark Gardner  C<< <mjgardner@cpan.org> >>
+Mark Gardner <mjgardner@cpan.org>
 
 =head1 LICENSE AND COPYRIGHT
 
