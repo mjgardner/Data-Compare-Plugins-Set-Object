@@ -49,7 +49,7 @@ Data::Compare::Plugins::Set::Object - plugin for Data::Compare to handle Set::Ob
 
 =head1 VERSION
 
-This document describes Data::Compare::Plugins::Set::Object version 1.0_5
+This document describes Data::Compare::Plugins::Set::Object version 1.0
 
 =head1 SYNOPSIS
 
