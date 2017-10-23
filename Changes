@@ -1,6 +1,6 @@
 Revision history for Data-Compare-Plugins-Set-Object
 
-{{$NEXT}}
+1.001     2017-10-23 13:17:48-05:00 America/Chicago
     Bring up to modern Perl development standards. No functional changes.
     Now requires Perl 5.10.
 1.0       2009-11-01 21:10:00-04:00 America/New_York
