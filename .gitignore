@@ -5,3 +5,5 @@ blib
 pm_to_blib
 *.bak
 Data-Compare-Plugins-Set-Object-*.tar.gz
+cover_db
+.build
