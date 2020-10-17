@@ -4,7 +4,7 @@ Data::Compare::Plugins::Set::Object - plugin for Data::Compare to handle Set::Ob
 
 # VERSION
 
-version 1.001
+version 1.002
 
 # SYNOPSIS
 
@@ -28,8 +28,8 @@ version 1.001
 
 # DESCRIPTION
 
-Enables [Data::Compare](https://metacpan.org/pod/Data::Compare) to Do The Right Thing for
-[Set::Object](https://metacpan.org/pod/Set::Object) objects. Set::Object already has an
+Enables [Data::Compare](https://metacpan.org/pod/Data%3A%3ACompare) to Do The Right Thing for
+[Set::Object](https://metacpan.org/pod/Set%3A%3AObject) objects. Set::Object already has an
 `equals()` method, but it only returns true if objects within two sets
 are exactly equal (i.e. have the same references, referring to the same
 object instance).  When using Data::Compare in conjunction with this
@@ -45,7 +45,7 @@ function, which for historical reasons is exported by default.
 
 Set::Object also can export certain functions, and overloads comparison
 operators pertaining to sets.  Consult the
-[Set::Object documentation](https://metacpan.org/pod/Set::Object) for more information.
+[Set::Object documentation](https://metacpan.org/pod/Set%3A%3AObject) for more information.
 
 # SUPPORT
 
@@ -59,24 +59,6 @@ You can find documentation for this module with the perldoc command.
 
 The following websites have more information about this module, and may be of help to you. As always,
 in addition to those websites please use your favorite search engine to discover more resources.
-
-- Search CPAN
-
-    The default CPAN search engine, useful to view POD in HTML format.
-
-    [http://search.cpan.org/dist/Data-Compare-Plugins-Set-Object](http://search.cpan.org/dist/Data-Compare-Plugins-Set-Object)
-
-- AnnoCPAN
-
-    The AnnoCPAN is a website that allows community annotations of Perl module documentation.
-
-    [http://annocpan.org/dist/Data-Compare-Plugins-Set-Object](http://annocpan.org/dist/Data-Compare-Plugins-Set-Object)
-
-- CPAN Ratings
-
-    The CPAN Ratings is a website that allows community ratings and reviews of Perl modules.
-
-    [http://cpanratings.perl.org/d/Data-Compare-Plugins-Set-Object](http://cpanratings.perl.org/d/Data-Compare-Plugins-Set-Object)
 
 - CPANTS
 
